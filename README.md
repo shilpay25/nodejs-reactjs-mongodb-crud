@@ -2,7 +2,7 @@
 
 Tutorial at: [Reactjs Nodejs MongoDB CRUD Example](https://loizenai.com/reactjs-nodejs-mongodb-crud/)
 
-In the tutorial, I introduce how to build an “React.js Nodejs CRUD MongoDB Example” project with the help of Ajax to POST/GET/PUT/DELETE requests with step by step coding examples:
+In the tutorial, I introduce how to build an “React.js Nodejs CRUD MongoDB Example” project with the help of Ajax to POST/GET/PUT/DELETE requests with step by step coding process
 
 – Nodejs project produces CRUD RestAPIs with MongoDB database using the supporting of Mongoose ODM.
 – React.js project will consume the Nodejs CRUD RestAPIs by Ajax then show up on Reactjs component’s views.
